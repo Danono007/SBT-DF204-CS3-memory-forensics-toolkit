@@ -1,0 +1,20 @@
+7741704 secret_file.docx
+13177972 secret_file.docx
+13836368 secret_file.docx
+14295920 secret_file.docx.crdownloadexe-1177810406-1000}
+14383570 ers\IEUser\Downloads\secret_file.docx.crdownload\
+14914828 secret_file.docx.crdownload68fd06275.tmp
+16403376 secret_file.docx
+20895072 192.18.56.5/secret_file.docx
+39487264  <secret_file.docx
+48324608 dapter isatap.{7FD51246-C28D-46B6-AA98-EB2C150C388B}:                                                                                                      Media State . . . . . . . . . . . : Media disconnected                          Connection-specific DNS Suffix  . :                                                                                                                          Tunnel adapter Teredo Tunneling Pseudo-Interface:                                                                                                                  Media State . . . . . . . . . . . : Media disconnected                          Connection-specific DNS Suffix  . :                                                                                                                          C:\Users\IEUser>cd Downloads                                                                                                                                    C:\Users\IEUser\Downloads>copy secret_file.docx F:                                      1 file(s) copied.                                                                                                                                       C:\Users\IEUser\Downloads>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+49437392 file:C:/Users/IEUser/Downloads/secret_file.docx
+62813028 ca8c807	1d4a5cf	file:C:/Users/IEUser/Downloads/secret_file.docx.crdownload	8000000c	0	80041201		1	4294967295	299
+62814952 688cbc5c	1d4a5d1	file:C:/Users/IEUser/Downloads/secret_file.docx.crdownload	8000000c	0	80041201		1	4294967295	304
+71761352 secret_file.docx
+72524228 C:/Users/IEUser/Downloads/secret_file.docx.crdownload/*
+74362880 sers\IEUser\Downloads\secret_file.docx
+74364890 :\Users\IEUser\Downloads\secret_file.docx
+76710388 C:\Users\IEUser\Downloads\secret_file.docx.crdownload
+76710508 C:\Users\IEUser\Downloads\secret_file.docx
+85102222 secret_file.docx

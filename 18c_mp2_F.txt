@@ -1,0 +1,17 @@
+Volatility Foundation Volatility Framework 2.6.1
+*** Failed to import volatility.plugins.malware.apihooks (NameError: name 'distorm3' is not defined)
+*** Failed to import volatility.plugins.malware.threads (NameError: name 'distorm3' is not defined)
+*** Failed to import volatility.plugins.mac.apihooks_kernel (ImportError: No module named distorm3)
+*** Failed to import volatility.plugins.mac.check_syscall_shadow (ImportError: No module named distorm3)
+*** Failed to import volatility.plugins.ssdt (NameError: name 'distorm3' is not defined)
+*** Failed to import volatility.plugins.mac.apihooks (ImportError: No module named distorm3)
+Legend: (S) = Stable   (V) = Volatile
+
+----------------------------
+Registry: \??\C:\Users\IEUser\ntuser.dat
+Key name: F (S)
+Last updated: 2019-01-06 15:03:06 UTC+0000
+
+Subkeys:
+
+Values:

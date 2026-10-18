@@ -1,0 +1,22 @@
+Volatility Foundation Volatility Framework 2.6.1
+*** Failed to import volatility.plugins.malware.apihooks (NameError: name 'distorm3' is not defined)
+*** Failed to import volatility.plugins.malware.threads (NameError: name 'distorm3' is not defined)
+*** Failed to import volatility.plugins.mac.apihooks_kernel (ImportError: No module named distorm3)
+*** Failed to import volatility.plugins.mac.check_syscall_shadow (ImportError: No module named distorm3)
+*** Failed to import volatility.plugins.ssdt (NameError: name 'distorm3' is not defined)
+*** Failed to import volatility.plugins.mac.apihooks (ImportError: No module named distorm3)
+************************************************************************
+explorer.exe pid:   2524
+Command line : C:\Windows\Explorer.EXE
+************************************************************************
+chrome.exe pid:   2388
+Command line : "C:\Program Files\Google\Chrome\Application\chrome.exe" 
+************************************************************************
+cmd.exe pid:   3996
+Command line : "C:\Windows\system32\cmd.exe" 
+************************************************************************
+conhost.exe pid:   3988
+Command line : \??\C:\Windows\system32\conhost.exe "-164647720-27591567712364045841175040742-950872444-977965776-107363114-188091992
+************************************************************************
+FTK Imager.exe pid:   2596
+Command line : "C:\Program Files\AccessData\FTK Imager\FTK Imager.exe" 
